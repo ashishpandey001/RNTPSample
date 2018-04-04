@@ -4294,6 +4294,10 @@ react-is@^16.3.1:
   version "16.3.1"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.3.1.tgz#ee66e6d8283224a83b3030e110056798488359ba"
 
+react-native-track-player@^0.2.2:
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/react-native-track-player/-/react-native-track-player-0.2.2.tgz#6ad9c70f2da44976d286212e83ba1796f951c506"
+
 react-native@0.55.0:
   version "0.55.0"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.55.0.tgz#cf17e01e6ff86187c47858e6c0b5ec6a15895361"
